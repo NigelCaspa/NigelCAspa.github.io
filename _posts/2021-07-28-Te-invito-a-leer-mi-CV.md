@@ -2,7 +2,7 @@
 layout: post
 title: Te invito a leer mi CV
 subtitle: 
-cover-img: /assets/img/cv.webp
+cover-img: #/assets/img/cv.webp
 thumbnail-img: /assets/img/cv.webp
 share-img: /assets/img/cv.webp
 tags: [personal, cv]
