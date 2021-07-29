@@ -17,7 +17,7 @@ Diplomado en Educación Superior 2020. Universidad Mayor de San Andrés, La Paz.
 Licenciatura en Historia, 2017. Universidad Mayor de San Andrés, La Paz.
 
 ## Trabajos y consultorías
-He trabajado con el Edel Consultores (Ecuador), el Instituto de Estudios Avanzados en Desarrollo (INESAD-Bolivia), la fundación Konrad Adenauer Stiftung (KAS-Bolivia), el Comité Nacional de Despacho de Carga (CNDC) y el Viceministerio de Transportes de Bolivia (MOPSV/VMT).
+He trabajado con Edel Consultores (Ecuador), el Instituto de Estudios Avanzados en Desarrollo (INESAD-Bolivia), la fundación Konrad Adenauer Stiftung (KAS-Bolivia), el Comité Nacional de Despacho de Carga (CNDC) y el Viceministerio de Transportes de Bolivia (MOPSV/VMT).
 
 ## Becas y premios académicos
 Fui becario de la Universidad Andina Simón Bolívar (Sede Ecuador) y mi trabajo de grado se adjudicó apoyo financiero.
