@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about me
-subtitle: Información básica
+title: About me
+subtitle: 
 ---
 
 Estudio temas de historia económica en Bolivia y Ecuador, siglos XIX y XX. Mis principales investigaciones abordan la historia de las infraestructuras de transporte, electricidad y sanidad. También he producido ensayos de historia social, historia de la salud e historia de la criminalidad.

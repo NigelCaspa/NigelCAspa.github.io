@@ -14,7 +14,7 @@ author: Nigel Caspa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Inicio: "https://nigelcaspa.github.io/"
+  Blog: "https://nigelcaspa.github.io/"
   About me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
