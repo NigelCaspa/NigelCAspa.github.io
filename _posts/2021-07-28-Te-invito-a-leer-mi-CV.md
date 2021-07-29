@@ -33,4 +33,4 @@ Miembro del Comité Editorial de la revista Historia, Revista de la Carrera de H
 
 Coordinador del Ciclo de Conferencias sobre Historia Económica en Bolivia. UMSA-Historia (2018).
 
-Puedes descargar la versión en PDF [aquí.](..\_pdf\CV_Nigel_Caspa.pdf)
+Puedes descargar la versión en PDF [aquí.](/_pdf\CV_Nigel_Caspa.pdf)
