@@ -7,8 +7,7 @@ thumbnail-img: /assets/img/cv.webp
 share-img: /assets/img/cv.webp
 tags: [personal, cv]
 ---
-
-*[Última actualización: julio 2021]*
+Estudio temas de historia económica en Bolivia y Ecuador, siglos XIX y XX. Mis principales investigaciones abordan la historia de las infraestructuras de transporte, electricidad y sanidad. También he producido ensayos de historia social, historia de la salud e historia de la criminalidad en la ciudad de La Paz (Bolivia).
 
 ## Educación
 Magister en Historia, 2020 | Universidad Andina Simón Bolívar, Sede Ecuador.
@@ -16,9 +15,6 @@ Magister en Historia, 2020 | Universidad Andina Simón Bolívar, Sede Ecuador.
 Diplomado en Educación Superior 2020 | Universidad Mayor de San Andrés, La Paz.
 
 Licenciatura en Historia, 2017 | Universidad Mayor de San Andrés, La Paz.
-
-## Áreas de especialización
-Estudio temas de historia económica en Bolivia y Ecuador, siglos XIX y XX. Mis principales investigaciones abordan la historia de las infraestructuras de transporte, electricidad y sanidad. También he producido ensayos de historia social, historia de la salud e historia de la criminalidad en la ciudad de La Paz (Bolivia).
 
 ## Trabajos y consultorías
 He trabajado con el Edel Consultores (Ecuador), el Instituto de Estudios Avanzados en Desarrollo (INESAD-Bolivia), la fundación Konrad Adenauer Stiftung (KAS-Bolivia), el Comité Nacional de Despacho de Carga (CNDC) y el Viceministerio de Transportes de Bolivia (MOPSV/VMT).
