@@ -14,7 +14,7 @@ author: Nigel Caspa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "CV"
+  About me: "aboutme"
   
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
