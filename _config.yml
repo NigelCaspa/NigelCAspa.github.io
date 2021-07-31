@@ -15,10 +15,13 @@ author: Nigel Caspa
 
 navbar-links:
   Blog: "https://nigelcaspa.github.io/"
-  About me: "aboutme"
+  Proyectos:
+    - Curso Historia Económica: "https://nigelcaspa.github.io/historiaeconomica/"
+    - Web Historia Económica-Bolivia: "https://historiaeconomica-bolivia.blogspot.com/"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  About me: "aboutme"
   Webpage: "https://nigelcaspa.wordpress.com/"
 
 # --- Logo --- #
